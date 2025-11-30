@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+
+.heading
+{
+    height:100px;
+    background-color:lightcyan;
+   
+   
+}
+.second
+{
+	height: 400px;
+	width: 400px;
+    margin-top:20px;
+    margin-left:350px;
+    border: 1px solid black;
+    padding-left: 30px;
+}
+.second:hover
+{
+   
+   box-shadow:0 0 10px 0 gold inset,0 0 20px 2px #00d7c3;
+   border:3px solid #00d7c3;
+
+       
+   }
+   .button 
+   {
+	  width:100px;
+  height:50px;
+  border-radius:10px;
+  background-color:lightseagreen;
+  font-size:15px;
+  border: transparent;
+  margin-top: 20px;
+  margin-left: 15px;
+   }
+   
+   .textbox 
+   {
+	   border-left: none;
+	   border-top: none;
+	   border-right: none;
+   }

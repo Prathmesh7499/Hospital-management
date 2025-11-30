@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.whitediv 
+{
+	height: 500px;
+	width: 500px;
+	background-color: beige;
+	margin-top: 60px;
+	margin-left: 100px;
+}
+.textbox
+{
+	height: 40px;
+	width: 220px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+label
+{
+	font-size: 18px;
+	padding-left: 30px;
+	padding-top: 55px;
+}
+.button
+{
+	height: 40px;
+	width: 220px;
+	background-color: red;
+	color: white;
+	margin-top: 50px;
+}
